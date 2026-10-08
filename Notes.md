@@ -12,9 +12,9 @@ A responsive static portfolio website for resume and home lab projects.
 
 
 ## Customize
-1. Update project descriptions in `index.html` as your lab progresses.
+1. Update project descriptions in `index.html` as lab progresses.
 2. Edit `css/styles.css` to adjust fonts/colors. `--accent` changes the green highlight.
-3. Save your real resume as `docs/Robert_Bruegger_Resume.pdf`.
+3. Save resume as `docs/Robert_Bruegger_Resume.pdf`.
 4. In `index.html`, change `href="docs/README.txt"` to `href="docs/Robert_Bruegger_Resume.pdf"` and the button text to `Download resume PDF`.
 5. Add a professional email link if desired: `<a href="mailto:your-email@example.com">Email me</a>`.
 
