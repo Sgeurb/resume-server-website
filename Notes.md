@@ -1,6 +1,6 @@
 # Robert Bruegger — IT Portfolio Website
 
-A responsive static portfolio website for your resume and home lab projects.
+A responsive static portfolio website for resume and home lab projects.
 
 ## Files
 - `index.html` — content and page structure
