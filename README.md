@@ -9,8 +9,7 @@ A responsive static portfolio website for your resume and home lab projects.
 - `docs/` — add your real resume PDF here
 - `assets/` — add screenshots, photos, and project diagrams
 
-## Preview at work
-Unzip the folder and double-click `index.html`. No installation or server required.
+
 
 ## Customize
 1. Update project descriptions in `index.html` as your lab progresses.
