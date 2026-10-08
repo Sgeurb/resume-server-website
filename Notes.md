@@ -22,7 +22,7 @@ A responsive static portfolio website for resume and home lab projects.
 When Proxmox is running, create a small Debian or Ubuntu VM/LXC, install Nginx, and copy these files to its web root (commonly `/var/www/html`). You can also host the same files with Apache or IIS. Do not expose the Proxmox admin interface to the public internet. Use HTTPS and a reverse proxy or secure tunnel when publishing.
 
 ## Notes
-This project uses HTML, CSS, and **JavaScript**, not Java. A static portfolio needs no backend or database. Descriptions are intentionally careful about what is complete versus planned.
+This project uses HTML, CSS, and **JavaScript**. A static portfolio needs no backend or database. Descriptions are intentionally careful about what is complete versus planned.
 
 
 ## Education section (updated October 2026)
